@@ -1,0 +1,20 @@
+{
+    "Author": "Manjunath Rao G",
+    "ContentSize": 1545,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/fetch-details-of-azure-virtual-machine-deallocate-operation/master/get-deallocated_vm_operation_details.ps1",
+    "DownloadCount": 663,
+    "Id": "Fetch-details-of-Azure-42e867be",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 468,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-6-7T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script will fetch information of certain Azure operation against Azure resources and create a CSV file.\u00a0Specifically, this script will create a CSV file that contains a list of Azure operations that de-allocates an Azure virtual machine.You may alter the IF condition stateme",
+    "Title": "Fetch details of Azure virtual machine de-allocate operation",
+    "UpdatedDate": "2018-6-7T00:00:00",
+    "Url": "https://github.com/azureautomation/fetch-details-of-azure-virtual-machine-deallocate-operation",
+    "UserTags": "Microsoft Azure, Windows Azure Virtual Machines, Windows Azure PowerShell"
+}
